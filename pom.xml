@@ -11,6 +11,10 @@
 	<groupId>br.com.srcjp</groupId> 
 	<artifactId>blog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+
+
+	
 	<name>blog</name>
 	<description>blog do canal</description>
 	<properties>
